@@ -7,3 +7,4 @@
 <h3> teraz</h3>
 <h3> dprezentacia</h3>
 <h1> CI-CD </h1>
+<h2> finished training </h2>
